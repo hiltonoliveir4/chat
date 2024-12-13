@@ -19,5 +19,12 @@
         "button": "Create an account",
         "signInMessage": "Already have an account?",
         "loginMessage": "Login here"
+    },
+    "formErrors": {
+        "required": "This field is required",
+        "min": "This field must be at least {{count}} characters",
+        "max": "This field must be at most {{count}} characters",
+        "emailInvalid": "Invalid email address",
+        "passwordsMustMatch": "Password must match"
     }
 }

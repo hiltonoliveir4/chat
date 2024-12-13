@@ -19,5 +19,12 @@
         "button": "Criar conta",
         "signInMessage": "Já possui uma conta?",
         "loginMessage": "Faça login aqui"
+    },
+    "formErrors": {
+        "required": "Este campo é obrigatório",
+        "min": "Este campo deve conter no mínimo {{count}} caracteres",
+        "max": "Este campo deve conter no máximo {{count}} caracteres",
+        "emailInvalid": "O email deve ser válido",
+        "passwordsMustMatch": "As senhas não são iguais"
     }
 }

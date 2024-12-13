@@ -1,6 +1,5 @@
 import CredentialsProvider from "next-auth/providers/credentials";
 import NextAuth from "next-auth";
-import { redirect } from "next/navigation";
 
 const handler = NextAuth({
   providers: [
