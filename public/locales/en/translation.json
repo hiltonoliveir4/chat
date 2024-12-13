@@ -1,0 +1,23 @@
+{
+    "welcome-message": "Welcome to realtime chat",
+    "title" : "Realtime Chat",
+    "sign": {
+        "message": "Sign in to your account",
+        "email": "Email address",
+        "password": "Password",
+        "signIn": "sign In",
+        "signUp": "sign Up",
+        "signUpMessage": "Don’t have an account yet?",
+        "credencialsError": "Incorrect login or password"
+    },
+    "signup": {
+        "message": "Create an account",
+        "name": "Your name",
+        "email": "Your email",
+        "password": "Your password",
+        "confirmPassword": "Confirm password",
+        "button": "Create an account",
+        "signInMessage": "Already have an account?",
+        "loginMessage": "Login here"
+    }
+}

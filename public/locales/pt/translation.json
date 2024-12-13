@@ -1,0 +1,23 @@
+{
+    "welcome-message": "Bem-vindo ao chat em tempo real",
+    "title" : "Chat em tempo real",
+    "sign": {
+        "message": "Faça login na sua conta",
+        "email": "Email",
+        "password": "Senha",
+        "signIn": "Login",
+        "signUp": "Cadastre-se",
+        "signUpMessage": "Não possui uma conta?",
+        "credencialsError": "Login ou senha incorretos"
+    },
+    "signup": {
+        "message": "Crie sua conta",
+        "name": "Seu nome",
+        "email": "Seu melhor email",
+        "password": "Senha",
+        "confirmPassword": "Confirme sua senha",
+        "button": "Criar conta",
+        "signInMessage": "Já possui uma conta?",
+        "loginMessage": "Faça login aqui"
+    }
+}
